@@ -1,1 +1,0 @@
-A recurring customer needs to be given a higher priority score in the queue because it will allow them to be served first as they have a higher likelihood to make a purchase
