@@ -2,7 +2,7 @@
 Authors: Leen Khawaja, Jasmin Narisetty (13548565), Yash Parge, Michael Zenkis
 
 ## 1. Objectives, Problem Definition
-lorem ipsum
+@Leen
 
 ## 2. Stakeholders
 * Travel Company (client)
@@ -12,7 +12,7 @@ lorem ipsum
   * Existing/recurring customers
 
 ## 3. Design Thinking Approach
-lorem
+@Yash
 
 ## 4. Agile Methology Approach
 @Michael to fill out
