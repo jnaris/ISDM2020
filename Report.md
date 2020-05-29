@@ -15,7 +15,18 @@ Authors: Leen Khawaja, Jasmin Narisetty (13548565), Yash Parge, Michael Zenkis
 @Yash
 
 ## 4. Agile Methology Approach
-@Michael to fill out
+The agile methodology that was decided upon for this project was Scrum. This methodology was chosen due to the project brief informing the team of the changing nature of the requirements of the project. The brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throughout the development of the project and, throguh the scrum processes, the team was able to efficiently create the planning for the product to be implemented at a later stage. 
+
+Following the scrum processes, the team worked effectively at self organising and ensuring that the work was completed according to the schedule of the various scrum members. The team adjusted meeting times according to various events  and committments team members had throughout the project, aligning with the flexibility attribute of scrum. 
+
+Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on the high level of productivity characterised by scrum.
+
+The high level of cooperation between team members was facilitated through the GitHub repository that was initiated at the beginning of the project. This repository was used in order to allow changes to be reviewed and discussed by the different members. Any concerns and changes were raised in the pull request thread, these changes were then made and the updates were added to the master repository branch.
+
+The backlog which was created towards the beginning of the project outlines the user stories which are to be addressed during the implementation phase which falls outside of the scope of this project. However, due to the nature of this project, there were no official sprints used for implementation purposes. The team did participate in scrum meetings  whenever their was work being conducted on the project. This involved each team member discussing their current project on their task, outlining any problems they're facing as well as what they hope to achieve before the next meeting. These stand up scrum meetings only lasted for less than 10 minutes however gave all team members a clear idea of what others were working on as well as offer to help with any difficulties after the scrum meeting was over. 
+
+The team worked effectively and employed many of the scrum processes and we aligned with the agile methodology in order 
+to effectively deliver the planning and designing stage of the project. 
 
 ## 5. Assumptions
 The team had discussions surrounding the scope of the system. We took into consideration the design of the solution that we would have to complete (such as Use cases, and class diagrams) as well as the specification and needs of the client. We wanted the solution to focus on **analysis** of data stored in the Profiler Tool, as well as the **process** of an RM receiving and conducting a sales call (before and during a call). We thought that data should come from a customer/RM database, the Profiler Tool should conduct the analysis of each customer/RM record, and the proposed system would match the customer and RM, based on their profile. So, the processes carried out within the proposed system must include the Profiler Tool and customer DB. 
