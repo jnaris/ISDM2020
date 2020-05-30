@@ -1,5 +1,5 @@
 # Information System Development Methodologies - Assignment 1 Report
-Authors: Leen Khawaja, Jasmin Narisetty (13548565), Yash Parge, Michael Zenkis
+Authors: Leen Khawaja, Jasmin Narisetty, Yash Parge, Michael Zenkis
 
 ## 1. Objectives, Problem Definition
 @Leen
@@ -46,7 +46,8 @@ Additionally, the team discussed whether or not actually handling calls (i.e., r
   * store customer or RM *profiles*. It may retrieve the profiles from elsewhere (Profiler Tool) for analysis.
   * reroute or redirect inbound/outbound calls. This will be handled by the Call Management System.
   
-## 6. Requirements Backlog
+## 6. Workproducts and Models
+* Requirements Backlog
 ID | As a... | I want to... | So that I can... | Estimate (Fibonacci) | Priority (HML)
 ---|---------|--------------|------------------|----------------------|---------------
 101|Relationship Manager|have customer calls relating to certain holiday packages routed to me|have full knowledge of the holiday package and satisfy the customer|21|H
@@ -56,6 +57,17 @@ ID | As a... | I want to... | So that I can... | Estimate (Fibonacci) | Priority
 301|Recurring Customer|Be served quickly when I call the company|I do not have as long of a waiting time as newer customers|13|H
 302|Recurring Customer|Talk to an RM who is aware of my travel history|I am not recommended the same travel packages again|8|M
 302|Recurring Customer|Talk to an RM who is aware of my likes and dislikes|I am not recommended travel packages for places I will not enjoy|13|H
+
+* Empathy Map
+New Customer, Recurring Customer, Relationship Manager - See Commits
+* Use Case Diagram
+Outbound and Inbound - See Commits
+* Class Diagram
+See Commits
+* Activity Diagram
+Outbound and Inbound - See Commits
+* Collaboration Diagram
+See Commits
   
 ## 7. Competitive Advantages
 Within the digital age, it is imperative that all industries and businesses take advantage of rapidly developing technologies to encourage change, improve existing processes, and potentially increase sales. Due to the advent of automation and networked technologies, manual labour has become expensive, inefficient, and time-consuming. Not only this, but storage and analysis of data becomes more difficult if a business is not able to implement technology solutions to accommodate the large volume of information which they are accumulating.
