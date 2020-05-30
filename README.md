@@ -2,7 +2,16 @@
 Authors: Leen Khawaja, Jasmin Narisetty, Yash Parge, Michael Zenkis
 
 ## 1. Objectives, Problem Definition
-@Leen
+Problem Definition:
+
+The travel company has both inbound and outbound calls for their holiday packages. The call flow rate is bottlenecked due to the variety in holiday packages that the travel company offers. This is because, relationship managers may be connected to customers that would like to know about a package or location that the relationship manager may not have the appropriate knowledge for. This causes potential customers to be less likely to purchase a package.
+
+Objectives:
+* Match customers to relationship managers that are more suitable for them
+* Develop information system that will allow relationship managers to more effectively meet the needs of customers
+* Improve call routing and dynamic call flow for both inbound and outbound calls
+* Improve customer retention and sales of travel packages  
+
 
 ## 2. Stakeholders
 * Travel Company (client)
