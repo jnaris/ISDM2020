@@ -12,7 +12,28 @@ Authors: Leen Khawaja, Jasmin Narisetty, Yash Parge, Michael Zenkis
   * Existing/recurring customers
 
 ## 3. Design Thinking Approach
-@Yash
+Design thinking is a customer centered systematic approach to convert need’s into demand via what is technologically feasible and viable from a business strategy point of view. It is a design philosophy that puts customers and stakeholders at the center of the process, ensuring that the end result has been carefully curated to address stakeholder needs. It comprises of 5 main processes: Empathize, Define, Ideate, Prototype and Test. Our group went through this process chronologically to try and better understand craft a solution to the case given to us.
+### Empathize:
+Empathizing refers to obtaining a deeper understanding of a stakeholder’s points of view in order to ensure the solution meets their needs. This can be done by asking open-ended questions which probe deep into their experiences in their environment. Some of these questions include:
+* What would the user be thinking and feelings?
+* What does the user say about the product?
+* What gains/pains might the user experience while using the product?
+
+Our group utilized empathy maps in order to build this understanding of our stakeholders. Each individual was assigned an empathy map to build, and all empathy maps were then reviewed by the team to ensure that they were done to their maximum potential. This allowed us to progress to the next stage, the define stage.
+### Define:
+The define stage refers to utilizing the information gained from the empathize stage in order to help find the needs of the stakeholders and develop their point of views. This was done via a point of view statements (POV) for each of the stakeholders identified. POV statements identify the stakeholder, their need and the insight developed by identifying the stakeholder and their needs. E.g. A relationship manager needs to be matched to appropriate customers through the profiler tool because it will make them more convincing to targeted customers and increase the possibility for customer retention. 
+This insight is a fundamental part of the design thinking process as it helps define the problems that needs to be solved. We were each assigned a stakeholder to construct a point of view statement for, in order to derive an understanding of the problems faced by each stakeholder. Once these problems were identified we were ready to move onto the third stage of the process, the ideation stage.
+### Ideate:
+In the ideation stage we build on the insights gained from the define stage and convert them into potential solutions. For this step, we used the POV statements and the insights gained from those statements and converted them into How Might We (HMW) statements. HMW statements convert the POV statements into problems that can be solved. E.g. How might we provide relationship managers with customers that are more likely to be influenced by their sales skills and knowledge.
+For each of these HMW statements, our team began brainstorming ideas for potential ways to solve these problems. As we did not want to restrict ourselves, we brainstormed any potential idea that we had, without worrying about feasibility. Once we had a large selection of ideas that we could choose from, we began the voting on the ideas that we believed were most feasible based on the 3 design thinking criteria: 
+* Most likely to succeed
+* Most likely to delight
+* Most likely to breakthrough
+
+Once the best ideas were identified via the votes, we were able to begin working on the next stage, the prototype stage.
+### Prototype & Testing:
+Prototyping allows us to create a rough outline of the project and fleshes out any questions that may have been raised and any assumptions that need to be made. These assumptions might not have been thought of during the ideation stage, thus making the prototype stage a vital component of the design thinking process. For this stage of the process, we began by using backlog to create use cases for some user stories. We then used the created use cases make activity diagrams. Although all diagrams had a single person responsible for them, they were all done with extensive consultation with the other group members during group calls. This is how we were able to test the prototype. E.g. It was discovered during the consultation that the class diagram was missing a few relationships which had to be added. This allowed us to iteratively add and improve each of the diagrams we made.
+
 
 ## 4. Agile Methology Approach
 The agile methodology that was decided upon for this project was Scrum. This methodology was chosen due to the project brief informing the team of the changing nature of the requirements of the project. The brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throughout the development of the project and, throguh the scrum processes, the team was able to efficiently create the planning for the product to be implemented at a later stage. 
