@@ -59,15 +59,15 @@ ID | As a... | I want to... | So that I can... | Estimate (Fibonacci) | Priority
 302|Recurring Customer|Talk to an RM who is aware of my likes and dislikes|I am not recommended travel packages for places I will not enjoy|13|H
 
 * Empathy Map
- * New Customer, Recurring Customer, Relationship Manager - See Commits
+  * New Customer, Recurring Customer, Relationship Manager - See Commits
 * Use Case Diagram
- * Outbound and Inbound - See Commits
+  * Outbound and Inbound - See Commits
 * Class Diagram
- * See Commits
+  * See Commits
 * Activity Diagram
- * Outbound and Inbound - See Commits
+  * Outbound and Inbound - See Commits
 * Collaboration Diagram
- * See Commits
+  * See Commits
   
 ## 7. Competitive Advantages
 Within the digital age, it is imperative that all industries and businesses take advantage of rapidly developing technologies to encourage change, improve existing processes, and potentially increase sales. Due to the advent of automation and networked technologies, manual labour has become expensive, inefficient, and time-consuming. Not only this, but storage and analysis of data becomes more difficult if a business is not able to implement technology solutions to accommodate the large volume of information which they are accumulating.
