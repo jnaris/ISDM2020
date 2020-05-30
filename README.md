@@ -47,7 +47,7 @@ Additionally, the team discussed whether or not actually handling calls (i.e., r
   * reroute or redirect inbound/outbound calls. This will be handled by the Call Management System.
   
 ## 6. Workproducts and Models
-* Requirements Backlog
+Requirements Backlog
 ID | As a... | I want to... | So that I can... | Estimate (Fibonacci) | Priority (HML)
 ---|---------|--------------|------------------|----------------------|---------------
 101|Relationship Manager|have customer calls relating to certain holiday packages routed to me|have full knowledge of the holiday package and satisfy the customer|21|H
