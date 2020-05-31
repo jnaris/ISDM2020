@@ -40,6 +40,7 @@ For each of these HMW statements, our team began brainstorming ideas for potenti
 * Most likely to breakthrough
 
 Once the best ideas were identified via the votes, we were able to begin working on the next stage, the prototype stage.
+
 ### Prototype & Testing:
 Prototyping allows us to create a rough outline of the project and fleshes out any questions that may have been raised and any assumptions that need to be made. These assumptions might not have been thought of during the ideation stage, thus making the prototype stage a vital component of the design thinking process. For this stage of the process, we began by using backlog to create use cases for some user stories. We then used the created use cases make activity diagrams. Although all diagrams had a single person responsible for them, they were all done with extensive consultation with the other group members during group calls. This is how we were able to test the prototype. E.g. It was discovered during the consultation that the class diagram was missing a few relationships which had to be added. This allowed us to iteratively add and improve each of the diagrams we made.
 
@@ -72,7 +73,7 @@ Scrum is broke up into 3 main roles:
 * Scrum master 
 * Development team
 
-Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jas, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throughout the project planning and design. 
+Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jasmin, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throughout the project planning and design. 
 
 Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on high productivity characterised by scrum.
 
@@ -134,4 +135,5 @@ In the case of the Travel Company, the proposed solution aims to analyse custome
 However, there are also some potential effects to the Travel Company should the project fail. Firstly, there are many reasons for project failure; not enough funds for resources, going over-budget, time constraints, complications regarding the client specification, executive decisions, and de-prioritisation due to the project being out of the scope of business critical activities. No matter how the project fails, there are always some adverse effects which can potentially leave a client financially damaged. For example, the Travel Company may not be able to handle the influx of calls which they are receiving at any given time, leading to **long waiting queues**. If a customer is not matched with an RM who understands their needs, **customers might become frustrated or angry with the RM’s inability to provide relevant products**, or the two parties may face **personality clashes** which can leave the customer feeling unsatisfied. This could result in poor customer experience and tarnished reputation via word-of-mouth marketing, triggering a loss of sales. Moreover, the RMs will not have the guidance and structure of a target list and generated scripts. This may lead to **inefficient sales calls** whereby the RM is not suited to discuss a certain product, and they might appear incompetent or unknowledgeable. Overall, a negative sales experience will lead to a **loss in sales**.
 
 ## 9. Presentation
-(link)
+https://youtu.be/n4XO2tCkQbI
+
