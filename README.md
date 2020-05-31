@@ -71,6 +71,7 @@ Scrum is broke up into 3 main roles:
 * Product owner 
 * Scrum master 
 * Development team
+
 Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jas, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throguhout the project planning and design. 
 
 Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on high productivity characterised by scrum.
