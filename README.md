@@ -54,25 +54,25 @@ The main difficulty with software development projects is risk. Over 60% of all 
 * Inundation of features in releases of the product
 * Overall lack of communication
 
-The above points are addressed with the agile methodology approach to software development. Agile involves ensuring a high level of communication between stakeholders as well as the team members within the project. Agile recognises that plans change very often, new ideas can be brought up after the immediate meeting with the stakeholders and that a project must be flexible in order to succeed with the changing nature of technology. The mthodology also revolves around iteration of stages for every short release. This means, thorough testing and a reasonable amount of features are decided upon to ensure it can be completed within the short iterative schedule which is employed by agile. The main outcome of agile is incremental delivery of working software that is iteratively improved upon and updated as the implementation process continues. 
+The above points are addressed with the agile methodology approach to software development. Agile involves ensuring a high level of communication between stakeholders as well as the team members within the project. Agile recognises that plans change very often, new ideas can be brought up after the immediate meeting with the stakeholders and that a project must be flexible in order to succeed with the changing nature of technology. The methodology also revolves around iteration of stages for every short release. This means, thorough testing and a reasonable amount of features are decided upon to ensure it can be completed within the short iterative schedule which is employed by agile. The main outcome of agile is incremental delivery of working software that is iteratively improved upon and updated as the implementation process continues. 
 
-The agile manifesto lists 4 comparitve terms that define the agile methodology. Two of these were directly used throughout the project as the other two fell outside the scope of this project. 
+The agile manifesto lists 4 comparative terms that define the agile methodology. Two of these were directly used throughout the project as the other two fell outside the scope of this project. 
 * Customer satisfaction over contract negotiation.
 * Responding to change over following a plan.
 
 Both of the above were followed during the planning and designing of this project. The customer, namely the Travel Company stakeholders were continually in contact and providing updated information regarding requirements. At no point was the contract negotiated or changed. Due to these changing requirements, the team had to continually respond and adapt to ensure the product design fulfilled all of the requirements. 
 
 ### Scrum
-Agile has many different methodologies that fall underneath the overarching procedures of agile, one of which is Scrum. Scrum was decided upon by the team to be used due to the project bried exclusively stating the changing nature of requirements of the project. This brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throguhout the development of the project, and through the scrum processes within agile, the team was able to efficiently complete the planning and designing stages of the project to be implemented at a later stage. 
+Agile has many different methodologies that fall underneath the overarching procedures of agile, one of which is Scrum. Scrum was decided upon by the team to be used due to the project brief exclusively stating the changing nature of requirements of the project. This brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throughout the development of the project, and through the scrum processes within agile, the team was able to efficiently complete the planning and designing stages of the project to be implemented at a later stage. 
 
-Following the scrum processes, the team worked effectively at self organising and ensuring that the work was completed according to the schedule of the various scrum members. The team adjusted meeting times according to various events and committments team members had throughout the project, aligning with the flexibility attribute of scrum. 
+Following the scrum processes, the team worked effectively at self organising and ensuring that the work was completed according to the schedule of the various scrum members. The team adjusted meeting times according to various events and commitments team members had throughout the project, aligning with the flexibility attribute of scrum. 
 
 Scrum is broke up into 3 main roles: 
 * Product owner 
 * Scrum master 
 * Development team
 
-Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jas, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throguhout the project planning and design. 
+Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jas, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throughout the project planning and design. 
 
 Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on high productivity characterised by scrum.
 
@@ -82,6 +82,7 @@ The backlog which was created towards the beginning of the project outlines the 
 
 The team worked effectively and employed many of the scrum processes and we aligned with the agile methodology in order 
 to effectively deliver the planning and designing stage of the project. 
+
 
 ## 5. Assumptions
 The team had discussions surrounding the scope of the system. We took into consideration the design of the solution that we would have to complete (such as Use cases, and class diagrams) as well as the specification and needs of the client. We wanted the solution to focus on **analysis** of data stored in the Profiler Tool, as well as the **process** of an RM receiving and conducting a sales call (before and during a call). We thought that data should come from a customer/RM database, the Profiler Tool should conduct the analysis of each customer/RM record, and the proposed system would match the customer and RM, based on their profile. So, the processes carried out within the proposed system must include the Profiler Tool and customer DB. 
