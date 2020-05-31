@@ -45,15 +45,38 @@ Prototyping allows us to create a rough outline of the project and fleshes out a
 
 
 ## 4. Agile Methology Approach
-The agile methodology that was decided upon for this project was Scrum. This methodology was chosen due to the project brief informing the team of the changing nature of the requirements of the project. The brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throughout the development of the project and, throguh the scrum processes, the team was able to efficiently create the planning for the product to be implemented at a later stage. 
 
-Following the scrum processes, the team worked effectively at self organising and ensuring that the work was completed according to the schedule of the various scrum members. The team adjusted meeting times according to various events  and committments team members had throughout the project, aligning with the flexibility attribute of scrum. 
+### Introduction to Agile:
+The main difficulty with software development projects is risk. Over 60% of all software development projects that fail can be attributed to: 
+* Incomplete, general and not testable requirements 
+* Unrealistic time schedule agreement 
+* Inadequate testing
+* Inundation of features in releases of the product
+* Overall lack of communication
 
-Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on the high level of productivity characterised by scrum.
+The above points are addressed with the agile methodology approach to software development. Agile involves ensuring a high level of communication between stakeholders as well as the team members within the project. Agile recognises that plans change very often, new ideas can be brought up after the immediate meeting with the stakeholders and that a project must be flexible in order to succeed with the changing nature of technology. The mthodology also revolves around iteration of stages for every short release. This means, thorough testing and a reasonable amount of features are decided upon to ensure it can be completed within the short iterative schedule which is employed by agile. The main outcome of agile is incremental delivery of working software that is iteratively improved upon and updated as the implementation process continues. 
 
-The high level of cooperation between team members was facilitated through the GitHub repository that was initiated at the beginning of the project. This repository was used in order to allow changes to be reviewed and discussed by the different members. Any concerns and changes were raised in the pull request thread, these changes were then made and the updates were added to the master repository branch.
+The agile manifesto lists 4 comparitve terms that define the agile methodology. Two of these were directly used throughout the project as the other two fell outside the scope of this project. 
+* Customer satisfaction over contract negotiation.
+* Responding to change over following a plan. 
+Both of the above were followed during the planning and designing of this project. The customer, namely the Travel Company stakeholders were continually in contact and providing updated information regarding requirements. At no point was the contract negotiated or changed. Due to these changing requirements, the team had to continually respond and adapt to ensure the product design fulfilled all of the requirements. 
 
-The backlog which was created towards the beginning of the project outlines the user stories which are to be addressed during the implementation phase which falls outside of the scope of this project. However, due to the nature of this project, there were no official sprints used for implementation purposes. The team did participate in scrum meetings  whenever their was work being conducted on the project. This involved each team member discussing their current project on their task, outlining any problems they're facing as well as what they hope to achieve before the next meeting. These stand up scrum meetings only lasted for less than 10 minutes however gave all team members a clear idea of what others were working on as well as offer to help with any difficulties after the scrum meeting was over. 
+### Scrum
+Agile has many different methodologies that fall underneath the overarching procedures of agile, one of which is Scrum. Scrum was decided upon by the team to be used due to the project bried exclusively stating the changing nature of requirements of the project. This brief also mentions close contact with the stakeholders which will be delivering these updated and modified requirements throughout. Scrum allowed the team to effectively adjust and expect changes to occur throguhout the development of the project, and through the scrum processes within agile, the team was able to efficiently complete the planning and designing stages of the project to be implemented at a later stage. 
+
+Following the scrum processes, the team worked effectively at self organising and ensuring that the work was completed according to the schedule of the various scrum members. The team adjusted meeting times according to various events and committments team members had throughout the project, aligning with the flexibility attribute of scrum. 
+
+Scrum is broke up into 3 main roles: 
+* Product owner 
+* Scrum master 
+* Development team
+Due to the scope of the project there was no explicitly define PO however we did have a Scrum master, Jas, who also was part of the development team due to the overarching situation. The development team involved all members of the group and this can be demonstrated by the active changes and updates that were made to the repository throguhout the project planning and design. 
+
+Throughout the project, various team members were self allocating and discussing the various sections of work to be completed. Communication between team members was conducted through online Zoom meetings, which according to scrum and overarching agile, is most certainly not preferable. Due to the current situation the team members were in, we did not have the ability to meet face to face which would have been a more effective communication method. The team was able to adapt to the changing nature of work and focus on high productivity characterised by scrum.
+
+The high level of cooperation between team members was facilitated through the GitHub repository that was initiated at the beginning of the project. This repository was used in order to allow changes to be reviewed and discussed by the different members. Any concerns and changes were raised in the pull request thread, these changes were then made and the updates were added to the master repository branch. Many online tools such as lucidchart were also used which allowed live collaboration and immediate feedback from other team members in the development of the UML diagrams. 
+
+The backlog which was created towards the beginning of the project outlines the user stories which are to be addressed during the implementation phase which falls outside of the scope of this project. However, due to the nature of this project, there were no official sprints used for implementation purposes. The team did participate in scrum meetings whenever there was work being conducted on the project. This involved each team member discussing their current progress on their task, outlining any problems they're facing as well as what they hope to achieve before the next meeting. These stand up scrum meetings only lasted for less than 10 minutes however gave all team members a clear idea of what others were working on as well as offer to help with any difficulties after the scrum meeting was over. 
 
 The team worked effectively and employed many of the scrum processes and we aligned with the agile methodology in order 
 to effectively deliver the planning and designing stage of the project. 
