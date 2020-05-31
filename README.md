@@ -58,7 +58,8 @@ The above points are addressed with the agile methodology approach to software d
 
 The agile manifesto lists 4 comparitve terms that define the agile methodology. Two of these were directly used throughout the project as the other two fell outside the scope of this project. 
 * Customer satisfaction over contract negotiation.
-* Responding to change over following a plan. 
+* Responding to change over following a plan.
+
 Both of the above were followed during the planning and designing of this project. The customer, namely the Travel Company stakeholders were continually in contact and providing updated information regarding requirements. At no point was the contract negotiated or changed. Due to these changing requirements, the team had to continually respond and adapt to ensure the product design fulfilled all of the requirements. 
 
 ### Scrum
